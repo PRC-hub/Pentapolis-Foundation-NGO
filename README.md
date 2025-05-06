@@ -21,4 +21,4 @@ Take a look - https://ngo-iota-orcin.vercel.app/
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-![image]([public\images\home.jpg](https://github.com/PRC-hub/Pentapolis-Foundation-NGO/blob/main/public/images/home.jpg))
+![image](https://github.com/PRC-hub/Pentapolis-Foundation-NGO/blob/main/public/images/home.jpg)
